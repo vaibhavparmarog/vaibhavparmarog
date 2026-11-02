@@ -25,17 +25,11 @@ A one-stop AI healthcare app for web and mobile: prescriptions and dose reminder
 
 `TypeScript` `Supabase` `Turborepo` `AI Agents`
 
-#### 🧠 Word2Vec Research Reproduction — GDG-USAR AIML task
-Skip-Gram with Negative Sampling implemented **from scratch in PyTorch** and compared against a PPMI+SVD baseline, with experiments on context window size.
-
-`PyTorch` `NLP` `Embeddings` `Research`
-
 ---
 
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
