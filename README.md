@@ -2,7 +2,9 @@
 
 **AI/ML & Backend Developer** · I build LLM-powered products that are grounded, fast and actually deployed.
 
-🌐 [ResearchOS live](https://researchos.duckdns.org) · 💼 Open to AI/ML & backend internships
+🎓 B.Tech Automation & Robotics @ USAR, GGSIPU (2026–2030) · 📍 Delhi
+
+🌐 [ResearchOS live](https://researchos.duckdns.org) · 💼 [LinkedIn](https://www.linkedin.com/in/vaibhav-parmar) · Open to AI/ML & backend internships
 
 ---
 
